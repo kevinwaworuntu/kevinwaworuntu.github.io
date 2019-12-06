@@ -160,7 +160,7 @@ header {
 	position: relative;
 }
 .banner-layer {
-    background: url(../images/latar.jpg)repeat;
+    background: url(../images/latar1.png)repeat;
     background: rgba(0, 0, 0, 0.5);
     min-height: 765px;
 }
